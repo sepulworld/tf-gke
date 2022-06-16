@@ -106,3 +106,10 @@ terraform apply
 | <a name="output_subnet_names"></a> [subnet\_names](#output\_subnet\_names) | The names of the subnet being created |
 | <a name="output_zones"></a> [zones](#output\_zones) | List of zones in which the cluster resides |
 <!-- END_TF_DOCS -->
+
+
+### TODO
+
+* Improve docs for quick and easy setup for new GCP user
+* Validate free tier costs and document
+* Add a LoadBalancer service entry point for nginx-demo app to test with (public facing)
